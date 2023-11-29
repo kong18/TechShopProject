@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/ProductListController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/add-img-01.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/img-1.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/MyOrderController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/blog-img-01.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/shopping/Order.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/RegisterController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/categories_img_01.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/MainController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/shopping/ProductDAO.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/logo.png</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/scss/bootstrap/utilities/_position.scss</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/managerCategory.jsp</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/blog-img.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/CartDetailController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/categories_img_02.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/AddController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/img-pro-01.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/CheckoutController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/bg_1.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/FIlter/AuthenFilter.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/productlist.jsp</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/banner-02.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/NewServlet.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/contact-bg.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/update.jsp</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/big-img-03.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/categories_img_03.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/img-pro-03.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/managerProduct.jsp</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/user/UserDAO.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/shopping/OrderDAO.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/img-3.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/HomeController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/OrderDetailsController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/ManageCategoryController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/banner-03.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/ViewCart.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/css/bootstrap.min.css</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/DeleteCartItem.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/add-img-02.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/src/java/sample/controllers/ManagerProductController.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/all-bg-title.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/big-img-02.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/apple-touch-icon.png</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/smp-img-03.jpg</file>
+            <file>file:/C:/Users/DELL/Downloads/Compressed/TechShopAssignment/web/images/ins-bg.jpg</file>
+        </group>
+    </open-files>
+</project-private>
